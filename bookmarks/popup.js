@@ -66,9 +66,9 @@ function removeBookmark() {
 }
 
 function removeBookmark2() {
-  chrome.bookmarks.search({ url: 'https://www.mash.com/' }, (results) => {
+  chrome.bookmarks.search({ url: 'https://www.masher.com/' }, (results) => {
     for (const result of results) {
-      if (result.url === 'https://www.mash.com/') {
+      if (result.url === 'https://www.masher.com/') {
         chrome.bookmarks.remove(result.id, () => {});
       }
     }
