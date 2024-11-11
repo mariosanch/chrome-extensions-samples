@@ -65,6 +65,17 @@ function removeBookmark() {
   });
 }
 
+function removeBookmark2() {
+  chrome.bookmarks.search({ url: 'https://www.mash.com/' }, (results) => {
+    for (const result of results) {
+      if (result.url === 'https://www.mash.com/') {
+        chrome.bookmarks.remove(result.id, () => {});
+      }
+    }
+    location.reload();
+  });
+}
+
 // Add click event listeners to the buttons
 document.getElementById('addButton').addEventListener('click', addBookmark);
 document
