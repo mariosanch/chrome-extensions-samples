@@ -13,3 +13,5 @@ The full bookmark tree is displayed on the extension popup usin `chrome.bookmark
 2. Load this directory in Chrome as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
 3. Pin the extension to the taskbar and open up the popup by clicking the action button.
 4. Experiment with adding and removing bookmarks using the buttons within the popup.
+
+### ms
