@@ -76,6 +76,17 @@ function removeBookmark2() {
   });
 }
 
+function removeBookmark3() {
+  chrome.bookmarks.search({ url: 'https://www.driver.com/' }, (results) => {
+    for (const result of results) {
+      if (result.url === 'https://www.driver.com/') {
+        chrome.bookmarks.remove(result.id, () => {});
+      }
+    }
+    location.reload();
+  });
+}
+
 // Add click event listeners to the buttons
 document.getElementById('addButton').addEventListener('click', addBookmark);
 document
