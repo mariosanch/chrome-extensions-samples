@@ -11,3 +11,5 @@ The extension calls `chrome.contentSettings.get()` and `chrome.contentSettings.s
 1. Clone this repository.
 2. Load this directory in Chrome as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
 3. Pin the extenion to the browser's taskbar and click on the popup to see the content settings for a given site.
+
+## The End
