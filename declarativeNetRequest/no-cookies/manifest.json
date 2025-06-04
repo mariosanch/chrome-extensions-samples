@@ -1,6 +1,6 @@
 {
   "name": "No Cookies",
-  "description": "Uses the chrome.declarativeNetRequest API to remove the \"Cookie\" header from requests.",
+  "description": "Uses the chrome.declarativeNetRequest API to remove the \"Cookie\" header from requests",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
