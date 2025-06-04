@@ -11,3 +11,5 @@ For example, install this extension and try navigating to https://github.com/Goo
 ## Implementation Notes
 
 This sample uses the `chrome.declarativeNetRequest.onRuleMatchedDebug` event which is only available in unpacked extensions.
+
+## The End
