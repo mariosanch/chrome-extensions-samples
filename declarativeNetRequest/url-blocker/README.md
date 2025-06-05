@@ -9,3 +9,6 @@ Once this extension is installed, any requests made in the main frame to example
 ## Implementation Notes
 
 This sample uses the `chrome.declarativeNetRequest.onRuleMatchedDebug` event which is only available in unpacked extensions.
+
+
+## The End
