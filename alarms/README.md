@@ -15,3 +15,5 @@ The extension calls `chrome.alarms.create()` to set an initial alarm that is dis
 4. Open the extension popup by clicking the action button and interact with the UI.
 
 Good luck !
+
+## The End
