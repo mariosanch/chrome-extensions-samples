@@ -38,7 +38,7 @@ form.addEventListener('submit', (event) => {
     alarmInfo.when = Date.now() + delay;
   } else if (delayFormat === 'min') {
     // specified in minutes, use `delayInMinutes` property
-    alarmInfo.delayInMinutes = delay;
+    alarmInfo.delayInMinutes = delay; # in minutes
   }
 
   if (period) {
