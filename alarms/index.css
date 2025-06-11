@@ -16,7 +16,7 @@ body {
 .create-alarm {
   display: grid;
   grid-template-columns: minmax(100px, 1fr) minmax(150px, 2fr);
-  column-gap: 20px;
+  column-gap: 22px;
   row-gap: 10px;
 
   max-width: 500px;
