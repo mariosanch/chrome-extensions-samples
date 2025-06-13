@@ -10,7 +10,7 @@ chrome.runtime.onInstalled.addListener(({ reason }) => {
     return;
   }
 
-  openDemoTab();
+  openDemoTab(); # open demo tab
 
   // Create an alarm so we have something to look at in the demo
   chrome.alarms.create('demo-default-alarm', {
