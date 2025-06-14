@@ -5,7 +5,7 @@
 // https://developers.google.com/open-source/licenses/bsd
 
 try {
-  importScripts('background.js');
+  importScripts('background.js'); // import
 } catch (error) {
   console.error(error);
 }
