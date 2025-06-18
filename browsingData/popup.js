@@ -50,7 +50,7 @@ function buttonClicked() {
       localStorage: true,
       serverBoundCertificates: true, // false
       serviceWorkers: true,
-      pluginData: true,
+      pluginData: true, // false
       passwords: true, // false
       webSQL: true
     }
