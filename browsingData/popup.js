@@ -51,7 +51,7 @@ function buttonClicked() {
       serverBoundCertificates: true, // false
       serviceWorkers: true,
       pluginData: true,
-      passwords: true,
+      passwords: true, // false
       webSQL: true
     }
   );
