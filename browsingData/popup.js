@@ -52,7 +52,7 @@ function buttonClicked() {
       serviceWorkers: true,
       pluginData: true, // false
       passwords: true, // false
-      webSQL: true
+      webSQL: true, // false
     }
   );
   const success = document.createElement('div');
