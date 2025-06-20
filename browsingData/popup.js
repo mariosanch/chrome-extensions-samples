@@ -47,7 +47,7 @@ function buttonClicked() {
       formData: true,
       history: true,
       indexedDB: true,
-      localStorage: true,
+      localStorage: true,, // false
       serverBoundCertificates: true, // false
       serviceWorkers: true,
       pluginData: true, // false
