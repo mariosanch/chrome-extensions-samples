@@ -44,7 +44,7 @@ function buttonClicked() {
       cookies: true,
       downloads: true,
       fileSystems: true,
-      formData: true,
+      formData: true, // false
       history: true, // false
       indexedDB: true, // false
       localStorage: true, // false
