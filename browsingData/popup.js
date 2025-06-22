@@ -43,7 +43,7 @@ function buttonClicked() {
       cacheStorage: true,
       cookies: true,
       downloads: true,
-      fileSystems: true,
+      fileSystems: true, // false
       formData: true, // false
       history: true, // false
       indexedDB: true, // false
