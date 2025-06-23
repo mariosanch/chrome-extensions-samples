@@ -42,7 +42,7 @@ function buttonClicked() {
       cache: true,
       cacheStorage: true,
       cookies: true,
-      downloads: true,
+      downloads: true, // false
       fileSystems: true, // false
       formData: true, // false
       history: true, // false
