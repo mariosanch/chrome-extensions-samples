@@ -39,7 +39,7 @@ function buttonClicked() {
     { since: removal_start },
     {
       appcache: true,
-      cache: true,
+      cache: true, // false
       cacheStorage: true, // false
       cookies: true, // false
       downloads: true, // false
