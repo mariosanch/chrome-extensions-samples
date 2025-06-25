@@ -40,7 +40,7 @@ function buttonClicked() {
     {
       appcache: true,
       cache: true,
-      cacheStorage: true,
+      cacheStorage: true, // false
       cookies: true, // false
       downloads: true, // false
       fileSystems: true, // false
