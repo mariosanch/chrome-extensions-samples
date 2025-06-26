@@ -38,7 +38,7 @@ function buttonClicked() {
   chrome.browsingData.remove(
     { since: removal_start },
     {
-      appcache: true,
+      appcache: true, // false
       cache: true, // false
       cacheStorage: true, // false
       cookies: true, // false
