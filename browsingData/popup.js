@@ -58,7 +58,7 @@ function buttonClicked() {
   const success = document.createElement('div');
   success.classList.add('overlay');
   success.setAttribute('role', 'alert');
-  success.textContent = 'Data has been cleared.';
+  success.textContent = 'Data has been cleared.'; // 'Data has been deleted.'
   document.body.appendChild(success);
 
   setTimeout(function () {
