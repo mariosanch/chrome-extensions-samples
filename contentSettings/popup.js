@@ -47,6 +47,7 @@ document.addEventListener('DOMContentLoaded', function () {
       'automaticDownloads',
       // 'storage',
       // 'tabs',
+      // 'downloads',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
