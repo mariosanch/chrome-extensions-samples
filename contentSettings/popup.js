@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'action',
       // 'author',
       // 'background', 
+      // 'browser_specific_settings', 
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
