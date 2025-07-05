@@ -54,6 +54,8 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'browser_specific_settings', 
       // 'chrome_settings_overrides', 
       // 'chrome_url_overrides', 
+      // 'commands', 
+      
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
