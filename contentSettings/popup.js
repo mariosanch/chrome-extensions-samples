@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'chrome_settings_overrides', 
       // 'chrome_url_overrides', 
       // 'commands', 
+      // 'content_scripts', 
       
     ];
     types.forEach(function (type) {
