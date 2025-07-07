@@ -57,6 +57,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'commands', 
       // 'content_scripts', 
       // 'content_security_policy', 
+      // 'declarative_net_request', 
       
     ];
     types.forEach(function (type) {
