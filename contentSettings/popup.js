@@ -59,8 +59,8 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'content_security_policy', 
       // 'declarative_net_request', 
       // 'default_locale', 
-      // 'description'
-      
+      // 'description',
+      // 'developer',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
