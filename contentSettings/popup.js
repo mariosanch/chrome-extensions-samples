@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'default_locale', 
       // 'description',
       // 'developer',
+      // 'devtools_page',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
