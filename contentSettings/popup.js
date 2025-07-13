@@ -65,6 +65,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'dictionaries',
       // 'externally_connectable',
       // 'homepage_url',
+      // 'host_permissions',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
