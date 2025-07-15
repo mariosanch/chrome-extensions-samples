@@ -68,6 +68,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'host_permissions',
       // 'icons',
       // 'incognito',
+      // 'manifest_version',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
