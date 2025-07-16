@@ -12,3 +12,6 @@ The extension interates across all tabs and moves them to the currently active w
 2. Load this directory in Chrome as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
 3. Make sure you have multiple windows of chrome open.
 4. Pin the extension and click on the action button.
+
+
+# the end
