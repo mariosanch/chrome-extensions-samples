@@ -10,3 +10,5 @@ chrome.runtime.onInstalled.addListener((_reason) => {
     url: 'demo/index1.html'
   });
 });
+
+// to do: ...
