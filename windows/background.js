@@ -27,4 +27,6 @@ async function start() {
 }
 
 // Set up a click handler so that we can merge all the windows.
+//
+//
 chrome.action.onClicked.addListener(start);
