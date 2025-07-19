@@ -70,6 +70,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'incognito',
       // 'manifest_version',
       // 'name',
+      // 'offline_enabled',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
