@@ -72,6 +72,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'name',
       // 'offline_enabled',
       // 'omnibox',
+      // 'optional_host_permissions',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
