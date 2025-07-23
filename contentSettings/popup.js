@@ -69,6 +69,13 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'icons',
       // 'incognito',
       // 'manifest_version',
+      // 'name',
+      // 'offline_enabled',
+      // 'omnibox',
+      // 'optional_host_permissions',
+      // 'optional_permissions',
+      // 'options_page',
+      // 'options_ui',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
