@@ -80,6 +80,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'permissions',
       // 'protocol_handlers',
       // 'short_name',
+      // 'sidebar_action',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
