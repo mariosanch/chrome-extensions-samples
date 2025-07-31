@@ -84,6 +84,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'storage',
       // 'theme',
       // 'theme_experiment',
+      // 'user_scripts',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
