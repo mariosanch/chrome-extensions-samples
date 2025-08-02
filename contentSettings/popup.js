@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function () {
             incognito: incognito
           },
           function (details) {
-            document.getElementById(type).disabled = false;
+            document.getElementById(type).disabled = true;
             document.getElementById(type).value = details.setting;
           }
         );
