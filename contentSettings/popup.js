@@ -87,6 +87,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // 'user_scripts',
       // 'version',
       // 'version_name',
+      // 'web_accessible_resources',
     ];
     types.forEach(function (type) {
       // HACK: [type] is not recognised by the docserver's sample crawler, so
