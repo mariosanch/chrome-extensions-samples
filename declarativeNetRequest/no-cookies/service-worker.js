@@ -13,9 +13,9 @@
 // limitations under the License.
 
 /*
-  "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
-  action
-
+    "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
+    action
+    author
 
 */
 
