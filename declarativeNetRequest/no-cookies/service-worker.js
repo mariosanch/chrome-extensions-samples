@@ -16,6 +16,7 @@
     "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
     action
     author
+    background
     
     web_accessible_resources
 */
