@@ -16,7 +16,8 @@
     "permissions": ["declarativeNetRequest", "declarativeNetRequestFeedback"],
     action
     author
-
+    
+    web_accessible_resources
 */
 
 'use strict';
