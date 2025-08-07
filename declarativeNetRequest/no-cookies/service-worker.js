@@ -18,6 +18,7 @@
     author
     background
     
+    version
     version_name
     web_accessible_resources
 */
