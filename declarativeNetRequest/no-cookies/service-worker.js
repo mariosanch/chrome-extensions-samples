@@ -19,6 +19,7 @@
     background
     browser_action
     
+    user_scripts
     version
     version_name
     web_accessible_resources
