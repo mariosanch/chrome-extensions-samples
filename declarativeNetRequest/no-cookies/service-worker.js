@@ -17,6 +17,7 @@
     action
     author
     background
+    browser_action
     
     version
     version_name
