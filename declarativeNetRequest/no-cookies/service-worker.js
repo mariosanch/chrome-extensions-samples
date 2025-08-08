@@ -18,6 +18,7 @@
     author
     background
     browser_action
+    browser_specific_settings
     
     user_scripts
     version
