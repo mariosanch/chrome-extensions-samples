@@ -19,6 +19,7 @@
     background
     browser_action
     browser_specific_settings
+    chrome_settings_overrides
     
     user_scripts
     version
