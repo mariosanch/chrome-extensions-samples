@@ -21,6 +21,7 @@
     browser_specific_settings
     chrome_settings_overrides
     
+    theme_experiment
     user_scripts
     version
     version_name
