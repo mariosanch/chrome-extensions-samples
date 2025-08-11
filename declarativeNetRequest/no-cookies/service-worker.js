@@ -21,6 +21,7 @@
     browser_specific_settings
     chrome_settings_overrides
     chrome_url_overrides
+    commands
     
     theme_experiment
     user_scripts
