@@ -23,6 +23,7 @@
     chrome_url_overrides
     commands
     
+    theme
     theme_experiment
     user_scripts
     version
