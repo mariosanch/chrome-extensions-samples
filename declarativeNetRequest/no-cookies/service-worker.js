@@ -22,6 +22,8 @@
     chrome_settings_overrides
     chrome_url_overrides
     commands
+    content_scripts
+    
     
     theme
     theme_experiment
