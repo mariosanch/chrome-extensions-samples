@@ -24,7 +24,7 @@
     commands
     content_scripts
     
-    
+    storage
     theme
     theme_experiment
     user_scripts
