@@ -23,6 +23,7 @@
     chrome_url_overrides
     commands
     content_scripts
+    content_security_policy
     
     storage
     theme
