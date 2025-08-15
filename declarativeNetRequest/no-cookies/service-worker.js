@@ -25,6 +25,7 @@
     content_scripts
     content_security_policy
     
+    sidebar_action
     storage
     theme
     theme_experiment
