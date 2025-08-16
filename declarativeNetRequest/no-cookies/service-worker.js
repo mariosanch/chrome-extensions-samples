@@ -24,6 +24,7 @@
     commands
     content_scripts
     content_security_policy
+    declarative_net_request
     
     sidebar_action
     storage
