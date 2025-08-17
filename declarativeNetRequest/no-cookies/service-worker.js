@@ -26,6 +26,7 @@
     content_security_policy
     declarative_net_request
     
+    short_name
     sidebar_action
     storage
     theme
