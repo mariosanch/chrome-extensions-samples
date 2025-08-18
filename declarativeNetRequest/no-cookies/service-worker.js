@@ -25,6 +25,7 @@
     content_scripts
     content_security_policy
     declarative_net_request
+    default_locale
     
     short_name
     sidebar_action
