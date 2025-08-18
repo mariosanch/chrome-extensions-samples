@@ -27,6 +27,7 @@
     declarative_net_request
     default_locale
     
+    protocol_handlers
     short_name
     sidebar_action
     storage
