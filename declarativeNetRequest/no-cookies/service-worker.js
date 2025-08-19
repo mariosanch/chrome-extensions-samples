@@ -26,6 +26,7 @@
     content_security_policy
     declarative_net_request
     default_locale
+    description
     
     protocol_handlers
     short_name
