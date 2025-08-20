@@ -28,6 +28,7 @@
     default_locale
     description
     
+    permissions
     protocol_handlers
     short_name
     sidebar_action
