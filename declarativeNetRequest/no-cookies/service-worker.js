@@ -27,6 +27,7 @@
     declarative_net_request
     default_locale
     description
+    developer
     
     permissions
     protocol_handlers
