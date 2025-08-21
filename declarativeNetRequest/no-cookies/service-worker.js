@@ -29,6 +29,7 @@
     description
     developer
     
+    page_action
     permissions
     protocol_handlers
     short_name
