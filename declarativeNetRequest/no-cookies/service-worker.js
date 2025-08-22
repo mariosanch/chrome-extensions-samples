@@ -28,6 +28,7 @@
     default_locale
     description
     developer
+    devtools_page
     
     page_action
     permissions
