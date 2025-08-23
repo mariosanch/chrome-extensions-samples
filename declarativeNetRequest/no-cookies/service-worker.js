@@ -30,6 +30,7 @@
     developer
     devtools_page
     
+    options_ui
     page_action
     permissions
     protocol_handlers
