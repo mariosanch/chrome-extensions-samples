@@ -29,6 +29,7 @@
     description
     developer
     devtools_page
+    dictionaries
     
     options_ui
     page_action
