@@ -31,6 +31,8 @@
     devtools_page
     dictionaries
     
+    
+    options_page
     options_ui
     page_action
     permissions
