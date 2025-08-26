@@ -32,7 +32,7 @@
     dictionaries
     externally_connectable
     
-    
+    optional_permissions
     options_page
     options_ui
     page_action
