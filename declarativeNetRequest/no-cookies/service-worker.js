@@ -30,6 +30,7 @@
     developer
     devtools_page
     dictionaries
+    externally_connectable
     
     
     options_page
