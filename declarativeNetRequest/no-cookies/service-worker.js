@@ -32,6 +32,7 @@
     dictionaries
     externally_connectable
     
+    optional_host_permissions
     optional_permissions
     options_page
     options_ui
