@@ -50,7 +50,7 @@
     web_accessible_resources
 */
 
-'use strict';
+'use strict'; // check it later
 
 // Simple extension to remove the 'Cookie' request header.
 
