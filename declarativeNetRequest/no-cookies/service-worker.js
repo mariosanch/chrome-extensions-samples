@@ -31,6 +31,7 @@
     devtools_page
     dictionaries
     externally_connectable
+    homepage_url
     
     optional_host_permissions
     optional_permissions
