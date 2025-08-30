@@ -33,6 +33,7 @@
     externally_connectable
     homepage_url
     
+    omnibox
     optional_host_permissions
     optional_permissions
     options_page
