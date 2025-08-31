@@ -34,6 +34,7 @@
     homepage_url
     host_permissions
     
+    offline_enabled
     omnibox
     optional_host_permissions
     optional_permissions
