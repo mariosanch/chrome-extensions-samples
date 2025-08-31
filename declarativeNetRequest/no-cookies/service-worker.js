@@ -32,6 +32,7 @@
     dictionaries
     externally_connectable
     homepage_url
+    host_permissions
     
     omnibox
     optional_host_permissions
