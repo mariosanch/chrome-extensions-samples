@@ -33,6 +33,7 @@
     externally_connectable
     homepage_url
     host_permissions
+    icons
     
     offline_enabled
     omnibox
