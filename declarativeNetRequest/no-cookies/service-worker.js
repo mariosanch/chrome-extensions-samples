@@ -35,6 +35,8 @@
     host_permissions
     icons
     
+    
+    name
     offline_enabled
     omnibox
     optional_host_permissions
