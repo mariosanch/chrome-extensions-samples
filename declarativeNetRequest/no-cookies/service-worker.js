@@ -34,6 +34,7 @@
     homepage_url
     host_permissions
     icons
+    incognito
     
     
     name
