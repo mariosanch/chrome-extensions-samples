@@ -35,8 +35,7 @@
     host_permissions
     icons
     incognito
-    
-    
+    manifest_version
     name
     offline_enabled
     omnibox
